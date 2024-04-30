@@ -44,6 +44,8 @@ What you need to install the software:
 A step by step series of examples that tell you how to get a development environment running.
 
 #### Setting up the backend
+![image](https://github.com/aarya098/library-management-system/assets/135094271/9c2887ce-d67d-4468-90a0-11cce8d40751)
+
 
 ```bash
 # Clone the repository
