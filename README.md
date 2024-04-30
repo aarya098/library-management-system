@@ -45,6 +45,10 @@ A step by step series of examples that tell you how to get a development environ
 
 #### Setting up the backend
 ![image](https://github.com/aarya098/library-management-system/assets/135094271/9c2887ce-d67d-4468-90a0-11cce8d40751)
+![image](https://github.com/aarya098/library-management-system/assets/135094271/6aa979ab-ccb7-42fe-a2b2-19920b29db50)
+![image](https://github.com/aarya098/library-management-system/assets/135094271/cb4ba930-1cc6-4e97-8555-0f5f4940ec3c)
+
+
 
 
 ```bash
