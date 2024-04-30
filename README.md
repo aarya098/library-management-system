@@ -39,15 +39,20 @@ What you need to install the software:
 - Node.js and npm/pnpm for JavaScript package management
 - PostgreSQL database
 
+###Output Images
+![image](https://github.com/aarya098/library-management-system/assets/135094271/9c2887ce-d67d-4468-90a0-11cce8d40751)
+![image](https://github.com/aarya098/library-management-system/assets/135094271/6aa979ab-ccb7-42fe-a2b2-19920b29db50)
+![image](https://github.com/aarya098/library-management-system/assets/135094271/cb4ba930-1cc6-4e97-8555-0f5f4940ec3c)
+
+###Experience and knowledge gained 
+ I faced some  challenges that pushed me to elevate my performance. Handling a surge in user requests and introduction to new techstacks was one such challenge. With increased demanding faster response times and sharper accuracy. Beside my failures and errors ,I owed myself to work hard and learn new technologies and worked hard to achieve the progress and I got a good mentorship and full time support to clear my doubts time-to-time.This helped me a lot to achieve atleast the maximum I could.
+ These challenges fueled my growth, prompting me to continually refine my abilities. Through strategic optimization and continuous learning, I not only overcame these hurdles but also delivered exceptional support to users throughout the project. Through this I learned a lot and will ought to learn more and hoping for gaining more insights forward.
+
 ### Installing
 
 A step by step series of examples that tell you how to get a development environment running.
 
 #### Setting up the backend
-![image](https://github.com/aarya098/library-management-system/assets/135094271/9c2887ce-d67d-4468-90a0-11cce8d40751)
-![image](https://github.com/aarya098/library-management-system/assets/135094271/6aa979ab-ccb7-42fe-a2b2-19920b29db50)
-![image](https://github.com/aarya098/library-management-system/assets/135094271/cb4ba930-1cc6-4e97-8555-0f5f4940ec3c)
-
 
 
 
